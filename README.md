@@ -25,6 +25,7 @@ A fun interactive command-line Pokemon guessing game built with Python. Test you
 
 ### Download Executable
 Click the button to download the latest release.
+
 [![Download](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/Arth-Joshi1001/POKEMON-GUESS-GAME/releases/download/GUESS-THE-POKEMON-1.0/pokemon.exe)
 
 ## Usage
@@ -115,6 +116,7 @@ The game uses colored text for better visual feedback:
 ## 📬 Contact & Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arth-joshi-8a37652aa)
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:joshiarth646@gmail.com)
 
 ## License
